@@ -7,7 +7,7 @@ In no way do i encourage using this for exploitable purposes although I have no 
 # Instructions
 
 # 1 
-Join a roblox game, leaving doesn't effect the process
+Open the .exe file and join a roblox game, leaving doesn't effect the process
 # 2
 Press 'Retrieve Server IP' on the application
 # 3
