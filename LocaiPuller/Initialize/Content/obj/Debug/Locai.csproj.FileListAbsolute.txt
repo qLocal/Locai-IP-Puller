@@ -1,9 +1,0 @@
-C:\Users\User\source\repos\Locai\Locai\bin\Debug\Locai.exe.config
-C:\Users\User\source\repos\Locai\Locai\bin\Debug\Locai.exe
-C:\Users\User\source\repos\Locai\Locai\bin\Debug\Locai.pdb
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.Form1.resources
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.Properties.Resources.resources
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.csproj.GenerateResource.cache
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.exe
-C:\Users\User\source\repos\Locai\Locai\obj\Debug\Locai.pdb
